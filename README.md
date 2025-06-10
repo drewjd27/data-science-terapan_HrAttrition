@@ -33,7 +33,7 @@ Dashboard bisnis telah dibuat menggunakan Looker Studio untuk memvisualisasikan 
 
 | ![Andrew Jonatan Damanik-dashboard](https://github.com/user-attachments/assets/655e02a9-6b44-49bf-9e98-81bf1139efa7) | 
 |:--:| 
-| *Distribusi Genre Film* |
+| *Dashboard yang Dibangun di Looker Studio* |
 
 
 ### Isi dari Dashboard
