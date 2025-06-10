@@ -19,7 +19,7 @@ Jaya Jaya Maju adalah perusahaan multinasional yang berdiri sejak tahun 2000 den
 
 ### Persiapan
 
-Sumber data: [Employee Dataset](https://github.com/dicodingacademy/dicoding_dataset/tree/main/employee)
+Sumber data: https://github.com/dicodingacademy/dicoding_dataset/tree/main/employee
 
 Setup environment:
 
@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 ## Business Dashboard
 
-Dashboard bisnis telah dibuat menggunakan Looker Studio untuk memvisualisasikan hubungan antara berbagai faktor dengan tingkat attrition karyawan.Dataset tersebut di ekspor dalam format csv dari notebook.ipynb dan setelah itu di import ke dalam Looker Studio. Pada looker studio ada penyesuaian dan modifikasi tipe data pada beberapa variabel. 
+Dashboard bisnis telah dibuat menggunakan Looker Studio untuk memvisualisasikan hubungan antara berbagai faktor dengan tingkat attrition karyawan. Dataset tersebut di ekspor dalam format csv dari notebook.ipynb dan setelah itu di import ke dalam Looker Studio. Pada looker studio ada penyesuaian dan modifikasi tipe data pada beberapa variabel. 
 
 ### Isi dari Dashboard
 - Dua Scorecard:
@@ -55,7 +55,7 @@ Dashboard bisnis telah dibuat menggunakan Looker Studio untuk memvisualisasikan 
         - 46-65
     Hasilnya, karyawan yang termasuk ke grup usia 26-45 (120) memiliki attrition yang paling tinggi, kemudian di urutan kedua adalah grup 18-25 (35) dan terakhir adalah grup 46-65 (24).
 
-Dashboard dapat diakses melalui link berikut: [HR Analytics Dashboard](https://lookerstudio.google.com/s/vBA_K9pAxzY)
+Dashboard dapat diakses melalui link berikut: https://lookerstudio.google.com/s/vBA_K9pAxzY
 
 ## Model Prediction
 
