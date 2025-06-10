@@ -31,6 +31,11 @@ pip install -r requirements.txt
 
 Dashboard bisnis telah dibuat menggunakan Looker Studio untuk memvisualisasikan hubungan antara berbagai faktor dengan tingkat attrition karyawan. Dataset tersebut di ekspor dalam format csv dari notebook.ipynb dan setelah itu di import ke dalam Looker Studio. Pada looker studio ada penyesuaian dan modifikasi tipe data pada beberapa variabel. 
 
+| ![Andrew Jonatan Damanik-dashboard](https://github.com/user-attachments/assets/655e02a9-6b44-49bf-9e98-81bf1139efa7) | 
+|:--:| 
+| *Distribusi Genre Film* |
+
+
 ### Isi dari Dashboard
 - Dua Scorecard:
     - Scorecard 1: Menampilkan jumlah karyawan pada perusahaan
